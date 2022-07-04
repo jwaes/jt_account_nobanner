@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_jt_account_nobanner_jt_account_nobanner,jt_account_nobanner.jt_account_nobanner,model_jt_account_nobanner_jt_account_nobanner,base.group_user,1,1,1,1
